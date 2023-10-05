@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "favMovie",
+    "slug": "favMovie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "icon": "./assets/icon.png"
+  }
+}
